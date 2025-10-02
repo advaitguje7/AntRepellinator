@@ -36,13 +36,24 @@ an ESP-32 (have)
 an ultrasonic sensor (have)
 motor drivers (have)
 9V battery (have)
-two DC motors (do not have)
+two DC geared motors (do not have)
 an ESP-32 cam (do not have) 
 two stepper motors (do not have)
 
 ## Educational Value Added
 
 The project will allow me to develop/hone my understanding of both hardware and software. I plan on 3D printing the AR chassis and the wheels (if needed), giving me the opportunity to hone my CAD skills. Designing the PCBs and building the circuits will give me an invaluable understanding of some practical applications of circuit design. Finally, programming the ESP-32 and ESP-32 CAM in the Arduino IDE (C/C++) will give me programming experience. 
+
+## Milestones
+1. The car
+   - Tasks: 3D printing the body, designing the central PCB
+   - Components: DC geared motor
+2. Guidance + Detection System
+   - Tasks: 3D printing the servo box, designing the PCB, building circuit
+   - Components: Stepper Motors, ESP-32 CAM
+3. Spray System
+   - Tasks: 3D printing repellent holder
+   - Components: Stepper Motor
 
 ## Tasks
 
@@ -75,6 +86,7 @@ The project will allow me to develop/hone my understanding of both hardware and 
 ## Log
 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+
 
 
 
