@@ -9,7 +9,7 @@ MENTOR NAME HERE
 In Progress
 ## Project Overview
 
-The Ant Repellinator (AR) is an ant-control car that will detect and deter ants in a given room. The AR will work by placing it in the corner of a room, after which it will traverse the edge of the room, determining the location of the ants. After a data-collection period, the AR will loop back around the room, releasing a surface-treatment liquid to repel ants from entering the room through those entry points. 
+The Ant Repellinator (AR) is an ant-control car that will detect and deter ants in a given room. The AR will work by placing it in the corner of a room, after which it will traverse the edge of the room, determining the location of the ants. After a data-collection period, the AR will loop back around the room, releasing a surface-treatment liquid to repel ants from entering the room through those entry points. For this project, however, I will not be using any chemicals. Instead I will be using water.
 
 <timeline>
 I expect the project to take 4-5 months to complete at most, as it is a larger project. My planned division of tasks are as follows:
@@ -75,6 +75,7 @@ The project will allow me to develop/hone my understanding of both hardware and 
 ## Log
 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+
 
 
 
